@@ -1,0 +1,15 @@
+{
+  "notes": [
+    {
+      "content": "custom hook test",
+      "id": 1
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fran",
+      "number": "040-5483923",
+      "id": 1
+    }
+  ]
+}
